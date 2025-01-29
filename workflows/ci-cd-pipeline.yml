@@ -1,3 +1,9 @@
+"example of a simple CI/CD pipeline that:
+
+Builds the application.
+Runs tests.
+Deploys the application to Kubernetes."
+
 name: CI/CD Pipeline
 
 # Trigger the pipeline on push or pull requests to the main branch
